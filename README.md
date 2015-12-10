@@ -1,0 +1,2 @@
+# slackware_install_kde5
+slackware_install_kde5
